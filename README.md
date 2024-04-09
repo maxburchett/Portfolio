@@ -9,8 +9,8 @@ Production Analyst @ Data Abstract Solutions
 - big immpact 2
 
 ### Projects
-EXCEL PROJECT
+EXCEL PROJECT (link GitHub repository here)
 
-SQL PROJECT
+SQL PROJECT (link GitHub repository here)
 
-TABLEAU PROJECT 
+TABLEAU PROJECT (link GitHub repository here)
